@@ -31,3 +31,20 @@ Simple Python program for cleaning and analyzing user data.
 - Array Creation
 - Array Operations
 - NumPy vs Python Lists Comparison
+
+### Day 02
+
+#### Topics Covered
+- Array Creation
+- Array Properties
+- Type Casting
+- NumPy Operations
+- Reshaping Arrays
+- Indexing
+- Fancy Indexing
+- Slicing
+- Copy vs View
+- Data Types
+
+#### Practice
+- Solved 10 NumPy notebooks
