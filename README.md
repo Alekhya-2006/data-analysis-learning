@@ -48,3 +48,20 @@ Simple Python program for cleaning and analyzing user data.
 
 #### Practice
 - Solved 10 NumPy notebooks
+
+### Day 03
+
+#### Topics Covered
+- Multi-Dimensional Arrays
+  - 2D Arrays
+  - 3D Arrays
+  - Indexing
+  - Slicing
+- Vectorization
+- Broadcasting
+
+#### Practice
+- 2D Array Operations
+- 3D Array Indexing & Slicing
+- Vectorized Operations
+- Broadcasting Examples
