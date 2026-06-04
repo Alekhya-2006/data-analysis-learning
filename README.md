@@ -17,6 +17,7 @@ Simple Python program for cleaning and analyzing user data.
 ---
 
 ## NumPy Learning Journey
+---
 
 ### Day 01
 
@@ -65,3 +66,23 @@ Simple Python program for cleaning and analyzing user data.
 - 3D Array Indexing & Slicing
 - Vectorized Operations
 - Broadcasting Examples
+
+### Day 04
+
+#### Topics Covered
+- Mathematical Functions
+- Aggregation Functions
+- Power Functions
+- Logarithmic Functions
+- Exponential Functions
+- Rounding Functions
+- Array Utility Functions
+- Array Normalization
+
+#### Practice
+- Aggregation Operations
+- Power Operations
+- Log & Exponential Functions
+- Rounding Operations
+- Sorting & Unique Values
+- Array Normalization
