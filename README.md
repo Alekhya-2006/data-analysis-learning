@@ -78,11 +78,15 @@ Simple Python program for cleaning and analyzing user data.
 - Rounding Functions
 - Array Utility Functions
 - Array Normalization
+---
 
-#### Practice
-- Aggregation Operations
-- Power Operations
-- Log & Exponential Functions
-- Rounding Operations
-- Sorting & Unique Values
-- Array Normalization
+## Pandas Learning Journey
+
+### Day 01
+
+#### Topics Covered
+- Pandas Basics
+- Series
+- Series Properties
+- DataFrames
+- Creating DataFrames
