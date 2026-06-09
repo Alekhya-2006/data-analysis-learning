@@ -1,4 +1,4 @@
-# data-analysis-learning
+# Data-analysis-learning
 
 Learning NumPy, Pandas, and data analysis through hands-on practice and projects.
 
