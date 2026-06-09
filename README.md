@@ -90,3 +90,17 @@ Simple Python program for cleaning and analyzing user data.
 - Series Properties
 - DataFrames
 - Creating DataFrames
+
+### Day 02
+
+#### Topics Covered
+- CSV to JSON Conversion
+- DataFrame Methods
+- Selecting Data
+- Filtering Data
+- Query Method
+- Handling Duplicates
+- Data Cleaning
+- Handling Missing Values
+- Date & Time Data Types
+- String Operations
