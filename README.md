@@ -119,3 +119,18 @@ Simple Python program for cleaning and analyzing user data.
 - Merging DataFrames
 - Joining DataFrames
 - Data Concatenation
+
+### Day 04
+
+#### Practice
+- Iris Dataset Analysis
+  - Data Exploration
+  - Filtering by Conditions
+  - Species-wise Aggregations
+  - Petal Ratio Analysis
+
+- Titanic Dataset Analysis
+  - Column Selection
+  - Passenger Filtering
+  - Class-wise Survival Analysis
+  - Fare & Age Analysis
