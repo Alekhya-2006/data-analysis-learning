@@ -104,3 +104,18 @@ Simple Python program for cleaning and analyzing user data.
 - Handling Missing Values
 - Date & Time Data Types
 - String Operations
+
+### Day 03
+
+#### Topics Covered
+- Data Transformation
+- Writing Data to CSV Files
+- Writing Data to JSON Files
+- Grouping Data
+- Aggregation Functions
+- Melt
+- Pivot Tables
+- Basic Data Visualization
+- Merging DataFrames
+- Joining DataFrames
+- Data Concatenation
