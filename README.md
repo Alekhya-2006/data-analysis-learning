@@ -1,136 +1,132 @@
-# Data-analysis-learning
+# Data Analysis Learning
 
-Learning NumPy, Pandas, and data analysis through hands-on practice and projects.
+A hands-on repository documenting my journey in Data Analysis, Data Collection, and Python programming through practical exercises, real-world datasets, and mini-projects.
+
+## Skills Demonstrated
+
+* Python Programming
+* Data Cleaning & Preprocessing
+* NumPy
+* Pandas
+* Data Collection
+* API Integration
+* Web Scraping
+* Exploratory Data Analysis (EDA)
+* Data Transformation
+* Data Visualization
+
+## Technologies Used
+
+* Python
+* NumPy
+* Pandas
+* SQL
+* Requests
+* BeautifulSoup
+* Jupyter Notebook
+* Git & GitHub
+
+## Repository Structure
+
+```text
+Data-Analysis-Learning/
+│
+├── Python project
+├── NumPy
+├── Pandas
+├── Data Collection
+└── Datasets
+```
+
+## Featured Projects
+
+### Data Cleaning & Analysis Program
+
+A Python-based project that:
+
+* Cleans inconsistent data
+* Handles missing values
+* Removes duplicate records
+* Generates basic insights
+* Creates simple product recommendations
+
+### Iris Dataset Analysis
+
+Performed exploratory data analysis using Pandas:
+
+* Data exploration
+* Filtering and selection
+* GroupBy operations
+* Feature engineering
+
+### Titanic Dataset Analysis
+
+Analyzed passenger survival patterns:
+
+* Data filtering
+* Aggregations
+* Class-wise analysis
+* Statistical insights
+
+### Data Collection Project
+
+Collected and processed data from web sources:
+
+* API requests
+* HTML parsing
+* Web scraping using BeautifulSoup
+* Data export to CSV
+
+## Learning Areas
+
+### Python
+
+* Functions
+* File Handling
+* Error Handling
+* Data Processing
+
+### NumPy
+
+* Arrays
+* Indexing & Slicing
+* Broadcasting
+* Vectorization
+* Mathematical Operations
+
+### Pandas
+
+* Series & DataFrames
+* Data Cleaning
+* Data Transformation
+* Aggregation & GroupBy
+* Data Visualization
+
+### SQL
+
+* Queries
+* Filtering
+* Sorting
+* Aggregations
+* Grouping
+* Database Operations
+
+### Data Collection
+
+* APIs
+* HTTP Requests
+* HTML Fundamentals
+* Web Scraping
+* Data Extraction
+
+## Goals
+
+* Build strong foundations in Data Analysis
+* Develop real-world data processing skills
+* Create portfolio-ready projects
+* Strengthen problem-solving abilities
+* Prepare for internships and industry roles
 
 ---
 
-## Data Cleaning & Analysis Program
-
-Simple Python program for cleaning and analyzing user data.
-
-### Features
-- Cleans ratings
-- Removes duplicates
-- Handles missing values
-- Generates insights
-- Recommends products
----
-
-## NumPy Learning Journey
----
-
-### Day 01
-
-#### Topics Covered
-- Introduction to NumPy
-- NumPy Arrays
-- Python Lists vs NumPy Arrays
-- Creating NumPy Arrays
-
-#### Practice
-- NumPy Basics
-- Array Creation
-- Array Operations
-- NumPy vs Python Lists Comparison
-
-### Day 02
-
-#### Topics Covered
-- Array Creation
-- Array Properties
-- Type Casting
-- NumPy Operations
-- Reshaping Arrays
-- Indexing
-- Fancy Indexing
-- Slicing
-- Copy vs View
-- Data Types
-
-#### Practice
-- Solved 10 NumPy notebooks
-
-### Day 03
-
-#### Topics Covered
-- Multi-Dimensional Arrays
-  - 2D Arrays
-  - 3D Arrays
-  - Indexing
-  - Slicing
-- Vectorization
-- Broadcasting
-
-#### Practice
-- 2D Array Operations
-- 3D Array Indexing & Slicing
-- Vectorized Operations
-- Broadcasting Examples
-
-### Day 04
-
-#### Topics Covered
-- Mathematical Functions
-- Aggregation Functions
-- Power Functions
-- Logarithmic Functions
-- Exponential Functions
-- Rounding Functions
-- Array Utility Functions
-- Array Normalization
----
-
-## Pandas Learning Journey
-
-### Day 01
-
-#### Topics Covered
-- Pandas Basics
-- Series
-- Series Properties
-- DataFrames
-- Creating DataFrames
-
-### Day 02
-
-#### Topics Covered
-- CSV to JSON Conversion
-- DataFrame Methods
-- Selecting Data
-- Filtering Data
-- Query Method
-- Handling Duplicates
-- Data Cleaning
-- Handling Missing Values
-- Date & Time Data Types
-- String Operations
-
-### Day 03
-
-#### Topics Covered
-- Data Transformation
-- Writing Data to CSV Files
-- Writing Data to JSON Files
-- Grouping Data
-- Aggregation Functions
-- Melt
-- Pivot Tables
-- Basic Data Visualization
-- Merging DataFrames
-- Joining DataFrames
-- Data Concatenation
-
-### Day 04
-
-#### Practice
-- Iris Dataset Analysis
-  - Data Exploration
-  - Filtering by Conditions
-  - Species-wise Aggregations
-  - Petal Ratio Analysis
-
-- Titanic Dataset Analysis
-  - Column Selection
-  - Passenger Filtering
-  - Class-wise Survival Analysis
-  - Fare & Age Analysis
+This repository is continuously updated with new concepts, projects, and practical exercises.
