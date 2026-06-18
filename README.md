@@ -8,7 +8,7 @@ A hands-on repository documenting my journey in Data Analysis, Data Collection, 
 * Data Cleaning & Preprocessing
 * NumPy
 * Pandas
-* Data Collection
+* Data Collection Fundamentals
 * API Integration
 * Web Scraping
 * Exploratory Data Analysis (EDA)
@@ -20,25 +20,28 @@ A hands-on repository documenting my journey in Data Analysis, Data Collection, 
 * Python
 * NumPy
 * Pandas
+* Matplotlib
 * SQL
 * Requests
 * BeautifulSoup
 * Jupyter Notebook
-* Git & GitHub
+* Git
+* GitHub
 
 ## Repository Structure
 
 ```text
-Data-Analysis-Learning/
+data-analysis-learning/
 │
-├── Python project
-├── NumPy
-├── Pandas
-├── Data Collection
-└── Datasets
+├── NumPy/
+├── Pandas/
+├── Matplotlib/
+├── Data Collection/
+└── README.md
 ```
+---
 
-## Featured Projects
+## Practice Projects
 
 ### Data Cleaning & Analysis Program
 
@@ -77,7 +80,7 @@ Collected and processed data from web sources:
 * Web scraping using BeautifulSoup
 * Data export to CSV
 
-## Learning Areas
+## Topics Completed
 
 ### Python
 
@@ -100,7 +103,6 @@ Collected and processed data from web sources:
 * Data Cleaning
 * Data Transformation
 * Aggregation & GroupBy
-* Data Visualization
 
 ### SQL
 
@@ -110,6 +112,14 @@ Collected and processed data from web sources:
 * Aggregations
 * Grouping
 * Database Operations
+
+### Matlplotlib
+
+* Line Charts
+* Bar Charts
+* Scatter Plots
+* Pie Charts
+* Plot Customization
 
 ### Data Collection
 
@@ -126,7 +136,8 @@ Collected and processed data from web sources:
 * Create portfolio-ready projects
 * Strengthen problem-solving abilities
 * Prepare for internships and industry roles
+* Build a strong GitHub portfolio
 
 ---
 
-This repository is continuously updated with new concepts, projects, and practical exercises.
+This repository is continuously updated as I learn new concepts, complete projects, and build practical skills in Data Analysis
