@@ -13,11 +13,18 @@ This repository contains my hands-on practice while learning Matplotlib for data
 - Scatter Plots
 - Pie Charts
 - Plot Customization
+- Histograms
+- Box Plots
+- Stack Plots
+- Sub Plot
+- Object Oriented APIs
 
 ## Tools Used
 
 - Python
 - Matplotlib
+- numpy
+- pandas
 - Jupyter Notebook
 
 ## Purpose
@@ -30,7 +37,3 @@ The goal of this repository is to build a strong foundation in data visualizatio
 - Customizing plots
 - Visualizing datasets effectively
 - Understanding how to communicate insights using charts
-
-## Author
-
-Alekhya

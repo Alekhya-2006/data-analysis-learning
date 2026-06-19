@@ -120,6 +120,11 @@ Collected and processed data from web sources:
 * Scatter Plots
 * Pie Charts
 * Plot Customization
+* Histograms
+* Box Plots
+* Stack Plots
+* Sub Plot
+* Object Oriented APIs
 
 ### Data Collection
 
