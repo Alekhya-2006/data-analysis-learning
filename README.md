@@ -21,6 +21,7 @@ A hands-on repository documenting my journey in Data Analysis, Data Collection, 
 * NumPy
 * Pandas
 * Matplotlib
+* Seaborn
 * SQL
 * Requests
 * BeautifulSoup
@@ -36,6 +37,7 @@ data-analysis-learning/
 ├── NumPy/
 ├── Pandas/
 ├── Matplotlib/
+├── Seaborn/
 ├── Data Collection/
 └── README.md
 ```
@@ -125,6 +127,13 @@ Collected and processed data from web sources:
 * Stack Plots
 * Sub Plot
 * Object Oriented APIs
+
+### Seaborn
+
+* Relational Plots
+* Categoral Plots
+* Distribution Plots
+* Matrix Plots
 
 ### Data Collection
 
